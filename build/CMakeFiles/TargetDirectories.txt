@@ -1,3 +1,0 @@
-C:/Users/abishek/OneDrive/Desktop/PROJECT CHESS/build/CMakeFiles/Chess.dir
-C:/Users/abishek/OneDrive/Desktop/PROJECT CHESS/build/CMakeFiles/edit_cache.dir
-C:/Users/abishek/OneDrive/Desktop/PROJECT CHESS/build/CMakeFiles/rebuild_cache.dir
